@@ -1,0 +1,28 @@
+		table {
+			border-collapse: collapse;
+			width: 1000px;
+			height: 500px;
+			color: #000000;
+			font-family: roboto;
+			font-size: 25px;
+			text-align: left;
+		}
+		th{
+			text-align: center;
+			background-color: #000000;
+			color : white;
+		}
+		tr{
+			text-align: center;
+			background-color: #588c7e
+		}
+#apel{
+	
+}
+.a{
+	color: white;
+	font-size: 40px;
+}
+.b{
+	background-color: #000000;
+}
